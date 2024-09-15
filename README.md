@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">Hi , I'm Milad Zaeri</h1>
 <h3 align="center">Full-Stack Developer with Expertise in PHP & Laravel</h3>
 <div align="center">
@@ -20,6 +21,8 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmilad97&show_icons=true&locale=en&layout=compact" alt="zmilad97" /></p>
+</div>
+
 </div>
 
 <!--
