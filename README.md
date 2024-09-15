@@ -1,4 +1,4 @@
-<div color="white">
+<div style="background-color: white;">
 <h1 align="center">Hi , I'm Milad Zaeri</h1>
 <h3 align="center">Full-Stack Developer with Expertise in PHP & Laravel</h3>
 <div align="center">
